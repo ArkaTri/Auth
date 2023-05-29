@@ -9,7 +9,7 @@ function Counter({ count, setCount }) {
         className="mx-1"
         onClick={() => setCount(count + 1)}
       >
-        Add.
+        Add
       </Button>
       <Button
         variant="warning"
